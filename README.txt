@@ -1,3 +1,6 @@
+The csv files provided give information over the past few years regarding MTA fares, performance metrics, and cutomer feedback
+All data is sourced from data.gov, more details can be found at the below sources.
+
 Fare Data Source:
 https://catalog.data.gov/dataset/fare-card-history-for-metropolitan-transportation-authority-mta-beginning-2010/resource/6fe1a433-c6e5-4811-9c9d-525385a0c179
 
